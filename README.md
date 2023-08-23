@@ -1,4 +1,5 @@
 # Bernoulli
+https://en.wikipedia.org/wiki/Bernoulli_distribution
 Bernoulli
 (14:31 ian@ian-Aspire-One-753 ~) > gcc bernoulli.c -lm -lgmp
 (14:32 ian@ian-Aspire-One-753 ~) > ./a.out
